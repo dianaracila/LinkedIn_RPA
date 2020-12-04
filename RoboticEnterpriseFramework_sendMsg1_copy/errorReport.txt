@@ -1,0 +1,10 @@
+Hello,
+
+My global handler was triggered at: {1}, which sadly means I found some errors during the execution, which I will detail below:
+The activity which threw the exception was: {2}, with the exception message: {3}.
+
+For more details see the text file attached below.
+
+From Roberto,
+Kind Regards!
+ಠ_ಠ 

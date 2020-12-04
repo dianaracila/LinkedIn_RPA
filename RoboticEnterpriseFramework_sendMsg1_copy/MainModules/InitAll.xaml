@@ -1,0 +1,218 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="InitAll" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:this="clr-namespace:" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <x:Members>
+    <x:Property Name="StartTime" Type="InArgument(s:DateTime)" />
+    <x:Property Name="EndTime" Type="InArgument(s:DateTime)" />
+    <x:Property Name="ExecutionTime" Type="InArgument(x:String)" />
+  </x:Members>
+  <this:InitAll.StartTime>
+    <InArgument x:TypeArguments="s:DateTime" />
+  </this:InitAll.StartTime>
+  <this:InitAll.EndTime>
+    <InArgument x:TypeArguments="s:DateTime" />
+  </this:InitAll.EndTime>
+  <this:InitAll.ExecutionTime>
+    <InArgument x:TypeArguments="x:String" />
+  </this:InitAll.ExecutionTime>
+  <mva:VisualBasic.Settings>
+    <x:Null />
+  </mva:VisualBasic.Settings>
+  <sap:VirtualizedContainerService.HintSize>1121,2170</sap:VirtualizedContainerService.HintSize>
+  <sap2010:WorkflowViewState.IdRef>InitAll_1</sap2010:WorkflowViewState.IdRef>
+  <TextExpression.NamespacesForImplementation>
+    <scg:List x:TypeArguments="x:String" Capacity="50">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+    </scg:List>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="54">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.Mail</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+    </scg:List>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="InitAll" sap:VirtualizedContainerService.HintSize="509,2005" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:Int32" Name="prospectsMessaged" />
+      <Variable x:TypeArguments="x:Int32" Name="prospectsNotMessaged" />
+      <Variable x:TypeArguments="sd:DataTable" Name="filtre" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Assign sap:VirtualizedContainerService.HintSize="467,60" sap2010:WorkflowViewState.IdRef="Assign_1">
+      <Assign.To>
+        <OutArgument x:TypeArguments="s:DateTime">[StartTime]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="s:DateTime">[DateTime.Now]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="467,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Starting the robot that sends the first message. &quot;]" />
+    <ui:AppendLine DisplayName="Append Line" FileName="C:\Users\rpausr2\Desktop\vm\copy_final_backgroundProcesses_ForDebug\LinkedIn Proj Final_copy\RoboticEnterpriseFramework_sendMsg1_copy\Logs_SendMessage1Robot.txt" sap:VirtualizedContainerService.HintSize="467,132" sap2010:WorkflowViewState.IdRef="AppendLine_3" Text="[vbCrLf + &quot;****** &quot; + StartTime.ToString + &quot; ******&quot; + vbCrLf]" UseDefaultEncoding="False" />
+    <ui:AppendLine DisplayName="Append Line" FileName="C:\Users\rpausr2\Desktop\vm\copy_final_backgroundProcesses_ForDebug\LinkedIn Proj Final_copy\RoboticEnterpriseFramework_sendMsg1_copy\Logs_SendMessage1Robot.txt" sap:VirtualizedContainerService.HintSize="467,132" sap2010:WorkflowViewState.IdRef="AppendLine_1" Text="Starting the robot that sends the first message... " UseDefaultEncoding="False" />
+    <ui:CommentOut sap2010:Annotation.AnnotationText="Forcing an error to test the Global Handler" DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="467,93" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+      <ui:CommentOut.Body>
+        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,198" sap2010:WorkflowViewState.IdRef="Sequence_3">
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+          <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'SPAN'" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="Click_3" KeyModifiers="None" MouseButton="BTN_LEFT">
+            <ui:Click.CursorPosition>
+              <ui:CursorPosition Position="Center">
+                <ui:CursorPosition.OffsetX>
+                  <InArgument x:TypeArguments="x:Int32" />
+                </ui:CursorPosition.OffsetX>
+                <ui:CursorPosition.OffsetY>
+                  <InArgument x:TypeArguments="x:Int32" />
+                </ui:CursorPosition.OffsetY>
+              </ui:CursorPosition>
+            </ui:Click.CursorPosition>
+            <ui:Click.Target>
+              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ff0ccbdb-6d11-46c3-ad68-2940ab09e0ae" InformativeScreenshot="0cdd0f5b1ecc59edcf3c160a20285abb" Selector="&lt;html app='chrome.exe' title='Home - UiPath Automation Cloud' /&gt;&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;a&amp;gt;span' idx='1' tag='SPAN' /&gt;">
+                <ui:Target.TimeoutMS>
+                  <InArgument x:TypeArguments="x:Int32" />
+                </ui:Target.TimeoutMS>
+                <ui:Target.WaitForReady>
+                  <InArgument x:TypeArguments="ui:WaitForReady" />
+                </ui:Target.WaitForReady>
+              </ui:Target>
+            </ui:Click.Target>
+          </ui:Click>
+        </Sequence>
+      </ui:CommentOut.Body>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:CommentOut>
+    <ui:OpenBrowser CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" sap2010:Annotation.AnnotationText="Verifying if we are logged in before contacting the prospects" BrowserType="Chrome" DisplayName="Open Browser" sap:VirtualizedContainerService.HintSize="467,398" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" Url="https://www.linkedin.com/feed/">
+      <ui:OpenBrowser.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="376,266" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Workflow File" sap:VirtualizedContainerService.HintSize="334,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="Login\verifyLogin.xaml">
+              <ui:InvokeWorkflowFile.Arguments>
+                <scg:Dictionary x:TypeArguments="x:String, Argument" />
+              </ui:InvokeWorkflowFile.Arguments>
+            </ui:InvokeWorkflowFile>
+            <ui:CloseTab Browser="{x:Null}" DisplayName="Close Tab" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="CloseTab_1" />
+          </Sequence>
+        </ActivityAction>
+      </ui:OpenBrowser.Body>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:OpenBrowser>
+    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke sendMessage1 workflow" sap:VirtualizedContainerService.HintSize="467,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="MainModules\sendMessage1.xaml">
+      <ui:InvokeWorkflowFile.Arguments>
+        <OutArgument x:TypeArguments="x:Int32" x:Key="prospectsMessaged">[prospectsMessaged]</OutArgument>
+        <OutArgument x:TypeArguments="x:Int32" x:Key="prospectsNotMessaged">[prospectsNotMessaged]</OutArgument>
+        <OutArgument x:TypeArguments="sd:DataTable" x:Key="dtFiltre">[filtre]</OutArgument>
+      </ui:InvokeWorkflowFile.Arguments>
+    </ui:InvokeWorkflowFile>
+    <Assign sap:VirtualizedContainerService.HintSize="467,60" sap2010:WorkflowViewState.IdRef="Assign_2">
+      <Assign.To>
+        <OutArgument x:TypeArguments="s:DateTime">[EndTime]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="s:DateTime">[DateTime.Now]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <Assign sap:VirtualizedContainerService.HintSize="467,60" sap2010:WorkflowViewState.IdRef="Assign_3">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[ExecutionTime]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String">[(EndTime.Subtract(StartTime)).ToString("hh\:mm\:ss")]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke SendMail workflow" sap:VirtualizedContainerService.HintSize="467,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_3" UnSafe="False" WorkflowFileName="SendMail\SendMail.xaml">
+      <ui:InvokeWorkflowFile.Arguments>
+        <InArgument x:TypeArguments="x:Int32" x:Key="countProspTotal" />
+        <InArgument x:TypeArguments="x:Int32" x:Key="countInsertedProspTotal" />
+        <InArgument x:TypeArguments="x:String" x:Key="nrPages" />
+        <InArgument x:TypeArguments="x:String" x:Key="ExecutionTime">[ExecutionTime]</InArgument>
+        <InArgument x:TypeArguments="s:DateTime" x:Key="EndTime">[EndTime]</InArgument>
+        <InArgument x:TypeArguments="s:DateTime" x:Key="StartTime">[StartTime]</InArgument>
+        <InArgument x:TypeArguments="x:Int32" x:Key="limitPages" />
+        <InArgument x:TypeArguments="sd:DataTable" x:Key="filtersFromDB">[filtre]</InArgument>
+        <InArgument x:TypeArguments="scg:Dictionary(x:String, s:String[])" x:Key="reportDictionaryFromNavWorkf">[New Dictionary(Of String,String())]</InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="totalResults" />
+        <InArgument x:TypeArguments="scg:Dictionary(x:String, scg:List(x:String))" x:Key="in_reportDictionaryForSelectedFilters">[new Dictionary(of String, List(of String))]</InArgument>
+        <InArgument x:TypeArguments="x:Int32" x:Key="in_prospectsMessaged">[prospectsMessaged]</InArgument>
+        <InArgument x:TypeArguments="x:Int32" x:Key="in_prospectsNotMessaged">[prospectsNotMessaged]</InArgument>
+      </ui:InvokeWorkflowFile.Arguments>
+    </ui:InvokeWorkflowFile>
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="467,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;Ending the robot that sends the first message. &quot;]" />
+    <ui:AppendLine DisplayName="Append Line" FileName="C:\Users\rpausr2\Desktop\vm\copy_final_backgroundProcesses_ForDebug\LinkedIn Proj Final_copy\RoboticEnterpriseFramework_sendMsg1_copy\Logs_SendMessage1Robot.txt" sap:VirtualizedContainerService.HintSize="467,132" sap2010:WorkflowViewState.IdRef="AppendLine_2" Text="Ending the robot that sends the first message... " UseDefaultEncoding="False" />
+  </Sequence>
+</Activity>

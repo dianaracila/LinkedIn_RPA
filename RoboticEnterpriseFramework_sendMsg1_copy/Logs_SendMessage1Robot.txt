@@ -1,0 +1,428 @@
+﻿Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Exiting send message module. 
+Module SendMail begun...
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Exiting send message module. 
+Module SendMail begun...
+Module SendMail ended...
+Ending the robot that sends the first message. 
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Exiting send message module. 
+Module SendMail begun...
+Module SendMail ended...
+Ending the robot that sends the first message. 
+Starting the robot that sends the first message. 
+Entered Global Handler. 
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler. 
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler. 
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler. 
+Sending error report. 
+Starting the robot that sends the first message. 
+Entered Global Handler. 
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler. 
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler. 
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler. 
+Sending error report. 
+****** 11/17/2020 16:50:02 ******
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entered Global Handler. 
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler. 
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler. 
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler. 
+Sending error report. 
+
+****** 11/17/2020 16:55:57 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+
+****** 11/17/2020 16:56:32 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Exiting send message module. 
+Entered Global Handler at: 11/17/2020 16:57:27
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler at: 11/17/2020 16:57:57
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler at: 11/17/2020 16:58:27
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler at: 11/17/2020 16:58:58
+Sending error report. 
+
+****** 11/18/2020 08:44:05 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Exiting send message module. 
+Module SendMail begun...
+Module SendMail ended...
+Ending the robot that sends the first message. 
+Entered Global Handler at: 11/18/2020 08:44:43
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler at: 11/18/2020 08:45:13
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler at: 11/18/2020 08:45:44
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler at: 11/18/2020 08:46:14
+Sending error report. 
+
+****** 11/18/2020 09:14:18 ******
+
+
+****** 11/18/2020 11:28:43 ******
+
+Starting the robot that sends the first message. 
+Entered Global Handler at: 11/18/2020 11:29:14
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler at: 11/18/2020 11:29:44
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler at: 11/18/2020 11:30:15
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Entered Global Handler at: 11/18/2020 11:30:45
+Sending error report. 
+
+****** 11/18/2020 11:31:21 ******
+
+Starting the robot that sends the first message. 
+Entered Global Handler at: 11/18/2020 11:31:52
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+
+****** 12/03/2020 15:22:03 ******
+
+Starting the robot that sends the first message. 
+
+****** 12/03/2020 15:22:20 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Exiting send message module. 
+Ending the robot that sends the first message. 
+
+****** 12/03/2020 15:23:45 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Exiting send message module. 
+Ending the robot that sends the first message. 
+
+****** 12/03/2020 15:26:34 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has NOT been found. Frienship connection currently pending.
+Prospect status has been updated to '-1'.
+Opened the page of the prospect. 
+Connect button has NOT been found. Frienship connection currently pending.
+Prospect status has been updated to '-1'.
+Opened the page of the prospect. 
+
+****** 12/03/2020 15:30:07 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has NOT been found. Frienship connection currently pending.
+Prospect status has been updated to '-1'.
+Opened the page of the prospect. 
+
+****** 12/03/2020 15:34:07 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+
+****** 12/03/2020 15:36:02 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Exiting send message module. 
+Ending the robot that sends the first message. 
+
+****** 12/03/2020 16:02:47 ******
+
+Starting the robot that sends the first message. 
+
+****** 12/03/2020 16:03:53 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+
+****** 12/03/2020 16:06:44 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Opened the page of the prospect. 
+
+****** 12/03/2020 16:10:22 ******
+
+Starting the robot that sends the first message. 
+Verifying if we are logged in. 
+We are already logged in. 
+Entering send message module. 
+Filters selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Opened the page of the prospect. 
+Connect button has been found. 
+Clicked connect button. 
+Message 1 typed into the message area. 
+Prospect status has been updated to '2'. 
+Prospects selected. 
+Prospects selected. 
+Prospects selected. 
+Exiting send message module. 
+Ending the robot that sends the first message. 

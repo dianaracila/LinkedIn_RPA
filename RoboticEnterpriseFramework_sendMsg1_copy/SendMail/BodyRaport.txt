@@ -1,0 +1,19 @@
+            ಠ_ಠ
+Your Daily Report,
+
+I've done my work in {3}.
+Started at: {4}.
+Ended at: {5}.
+
+The number of prospects messaged is {8}. And the number of prospects that could not be messaged is {9}.
+The filters used on my last run are listed below:
+{7}
+
+¯\_(ツ)_/¯ AND If you wanna know my brain:
+	  The processes covered were:
+	  > verify login,
+	  > selecting the prospects I needed to message, and the filter such that the message will be suitable.
+
+From Roberto,
+Kind Regards!
+ಠ_ಠ
