@@ -1,0 +1,947 @@
+﻿11/16/2020 17:07:14
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:08:24
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:14:04
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:16:47
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:17:17
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 1
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:17:48
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 2
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:18:18
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 3
+
+***The RetryCount ended.
+11/16/2020 17:18:18
+11/16/2020 17:28:08
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:28:38
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 1
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:29:09
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 2
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:29:39
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 3
+
+***The RetryCount ended.
+11/16/2020 17:29:39
+11/16/2020 17:35:12
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:35:42
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 1
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:36:13
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 2
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:36:43
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 3
+
+***The RetryCount ended.
+11/16/2020 17:36:43
+11/16/2020 17:39:28
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:39:58
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 1
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:40:29
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 2
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/16/2020 17:40:59
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 3
+
+***The RetryCount ended.
+11/16/2020 17:40:59
+Module InitAllApp begun at: 11/16/2020 17:44:05. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+11/16/2020 17:44:37
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+[2] <webctrl css-selector='body&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;a&gt;span' idx='1' tag='SPAN'/>
+
+Search failed at selector tag:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+
+The closest matches found are:
+[43%] <html app='chrome.exe' title='(24) Home | Sales Navigator'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+[2] <webctrl css-selector='body&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;a&gt;span' idx='1' tag='SPAN'/>
+
+Search failed at selector tag:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+
+The closest matches found are:
+[43%] <html app='chrome.exe' title='(24) Home | Sales Navigator'/>
+
+11/16/2020 17:45:08
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+[2] <webctrl css-selector='body&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;a&gt;span' idx='1' tag='SPAN'/>
+
+Search failed at selector tag:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+
+The closest matches found are:
+[43%] <html app='chrome.exe' title='(24) Home | Sales Navigator'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 1
+
+***The message of this error is: Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+[2] <webctrl css-selector='body&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;a&gt;span' idx='1' tag='SPAN'/>
+
+Search failed at selector tag:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+
+The closest matches found are:
+[43%] <html app='chrome.exe' title='(24) Home | Sales Navigator'/>
+
+11/16/2020 17:45:38
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+[2] <webctrl css-selector='body&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;a&gt;span' idx='1' tag='SPAN'/>
+
+Search failed at selector tag:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+
+The closest matches found are:
+[43%] <html app='chrome.exe' title='(24) Home | Sales Navigator'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 2
+
+***The message of this error is: Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+[2] <webctrl css-selector='body&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;a&gt;span' idx='1' tag='SPAN'/>
+
+Search failed at selector tag:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+
+The closest matches found are:
+[43%] <html app='chrome.exe' title='(24) Home | Sales Navigator'/>
+
+11/16/2020 17:46:08
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+[2] <webctrl css-selector='body&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;a&gt;span' idx='1' tag='SPAN'/>
+
+Search failed at selector tag:
+[1] <html app='chrome.exe' title='Home - UiPath Automation Cloud'/>
+
+The closest matches found are:
+[43%] <html app='chrome.exe' title='(24) Home | Sales Navigator'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 3
+
+***The RetryCount ended.
+11/16/2020 17:46:08
+11/18/2020 11:48:12
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/18/2020 14:54:51
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+11/18/2020 15:03:01
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: No open windows found for 'chrome.exe'. Please check if the application is running.
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: No open windows found for 'chrome.exe'. Please check if the application is running.
+
+Module InitAllApp begun at: 11/27/2020 13:24:29. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+11/27/2020 13:26:20
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='               All filters                   ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[50%] <webctrl aaname='                 Lists               ' tag='A'/>
+[46%] <webctrl aaname='                                        Sales Navigator              ' tag='A'/>
+[46%] <webctrl aaname='        See all actions ' tag='A'/>
+[39%] <webctrl aaname='                     Social Selling Index                   ' tag='A'/>
+[38%] <webctrl aaname='              Anne Lucas   ' tag='A'/>
+[37%] <webctrl aaname='                           Sales Navigator Inbox                         ' tag='A'/>
+[37%] <webctrl aaname='                                            Sales Navigator Coach                                        ' tag='A'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='               All filters                   ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[50%] <webctrl aaname='                 Lists               ' tag='A'/>
+[46%] <webctrl aaname='                                        Sales Navigator              ' tag='A'/>
+[46%] <webctrl aaname='        See all actions ' tag='A'/>
+[39%] <webctrl aaname='                     Social Selling Index                   ' tag='A'/>
+[38%] <webctrl aaname='              Anne Lucas   ' tag='A'/>
+[37%] <webctrl aaname='                           Sales Navigator Inbox                         ' tag='A'/>
+[37%] <webctrl aaname='                                            Sales Navigator Coach                                        ' tag='A'/>
+
+11/27/2020 13:26:50
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='               All filters                   ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[50%] <webctrl aaname='                 Lists               ' tag='A'/>
+[46%] <webctrl aaname='                                        Sales Navigator              ' tag='A'/>
+[46%] <webctrl aaname='        See all actions ' tag='A'/>
+[39%] <webctrl aaname='                     Social Selling Index                   ' tag='A'/>
+[38%] <webctrl aaname='              Anne Lucas   ' tag='A'/>
+[37%] <webctrl aaname='                           Sales Navigator Inbox                         ' tag='A'/>
+[37%] <webctrl aaname='                                            Sales Navigator Coach                                        ' tag='A'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 1
+
+***The message of this error is: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='               All filters                   ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[50%] <webctrl aaname='                 Lists               ' tag='A'/>
+[46%] <webctrl aaname='                                        Sales Navigator              ' tag='A'/>
+[46%] <webctrl aaname='        See all actions ' tag='A'/>
+[39%] <webctrl aaname='                     Social Selling Index                   ' tag='A'/>
+[38%] <webctrl aaname='              Anne Lucas   ' tag='A'/>
+[37%] <webctrl aaname='                           Sales Navigator Inbox                         ' tag='A'/>
+[37%] <webctrl aaname='                                            Sales Navigator Coach                                        ' tag='A'/>
+
+11/27/2020 13:27:20
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='               All filters                   ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[50%] <webctrl aaname='                 Lists               ' tag='A'/>
+[46%] <webctrl aaname='                                        Sales Navigator              ' tag='A'/>
+[46%] <webctrl aaname='        See all actions ' tag='A'/>
+[39%] <webctrl aaname='                     Social Selling Index                   ' tag='A'/>
+[38%] <webctrl aaname='              Anne Lucas   ' tag='A'/>
+[37%] <webctrl aaname='                           Sales Navigator Inbox                         ' tag='A'/>
+[37%] <webctrl aaname='                                            Sales Navigator Coach                                        ' tag='A'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 2
+
+***The message of this error is: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='               All filters                   ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[50%] <webctrl aaname='                 Lists               ' tag='A'/>
+[46%] <webctrl aaname='                                        Sales Navigator              ' tag='A'/>
+[46%] <webctrl aaname='        See all actions ' tag='A'/>
+[39%] <webctrl aaname='                     Social Selling Index                   ' tag='A'/>
+[38%] <webctrl aaname='              Anne Lucas   ' tag='A'/>
+[37%] <webctrl aaname='                           Sales Navigator Inbox                         ' tag='A'/>
+[37%] <webctrl aaname='                                            Sales Navigator Coach                                        ' tag='A'/>
+
+Module InitAllApp begun at: 11/27/2020 13:33:48. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+11/27/2020 13:35:38
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='               All filters                   ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[50%] <webctrl aaname='                 Lists               ' tag='A'/>
+[46%] <webctrl aaname='                                        Sales Navigator              ' tag='A'/>
+[46%] <webctrl aaname='        See all actions ' tag='A'/>
+[39%] <webctrl aaname='                     Social Selling Index                   ' tag='A'/>
+[38%] <webctrl aaname='              Anne Lucas   ' tag='A'/>
+[37%] <webctrl aaname='                           Sales Navigator Inbox                         ' tag='A'/>
+[37%] <webctrl aaname='                                            Sales Navigator Coach                                        ' tag='A'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='               All filters                   ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[50%] <webctrl aaname='                 Lists               ' tag='A'/>
+[46%] <webctrl aaname='                                        Sales Navigator              ' tag='A'/>
+[46%] <webctrl aaname='        See all actions ' tag='A'/>
+[39%] <webctrl aaname='                     Social Selling Index                   ' tag='A'/>
+[38%] <webctrl aaname='              Anne Lucas   ' tag='A'/>
+[37%] <webctrl aaname='                           Sales Navigator Inbox                         ' tag='A'/>
+[37%] <webctrl aaname='                                            Sales Navigator Coach                                        ' tag='A'/>
+
+11/27/2020 13:36:08
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='               All filters                   ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[50%] <webctrl aaname='                 Lists               ' tag='A'/>
+[46%] <webctrl aaname='                                        Sales Navigator              ' tag='A'/>
+[46%] <webctrl aaname='        See all actions ' tag='A'/>
+[39%] <webctrl aaname='                     Social Selling Index                   ' tag='A'/>
+[38%] <webctrl aaname='              Anne Lucas   ' tag='A'/>
+[37%] <webctrl aaname='                           Sales Navigator Inbox                         ' tag='A'/>
+[37%] <webctrl aaname='                                            Sales Navigator Coach                                        ' tag='A'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 1
+
+***The message of this error is: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='    All filters      ' tag='A'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='               All filters                   ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[53%] <webctrl aaname='          See all ' tag='A'/>
+[50%] <webctrl aaname='                 Lists               ' tag='A'/>
+[46%] <webctrl aaname='                                        Sales Navigator              ' tag='A'/>
+[46%] <webctrl aaname='        See all actions ' tag='A'/>
+[39%] <webctrl aaname='                     Social Selling Index                   ' tag='A'/>
+[38%] <webctrl aaname='              Anne Lucas   ' tag='A'/>
+[37%] <webctrl aaname='                           Sales Navigator Inbox                         ' tag='A'/>
+[37%] <webctrl aaname='                                            Sales Navigator Coach                                        ' tag='A'/>
+
+Module InitAllApp begun at: 11/27/2020 13:43:44. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 11/27/2020 13:46:35. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 11/27/2020 13:48:22. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 11/27/2020 13:52:49. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 11/27/2020 13:56:07. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+11/27/2020 13:58:08
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='                  Add industries     ' tag='BUTTON' type='button'/>
+[83%] <webctrl aaname='                  Add titles     ' tag='BUTTON' type='button'/>
+[80%] <webctrl aaname='                  Add functions     ' tag='BUTTON' type='button'/>
+[78%] <webctrl aaname='                  Add past companies     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add tags     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add a first name     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add seniority levels     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add company types     ' tag='BUTTON' type='button'/>
+[74%] <webctrl aaname='                  Add a last name     ' tag='BUTTON' type='button'/>
+[73%] <webctrl aaname='                  Add keywords     ' tag='BUTTON' type='button'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 0
+
+***The message of this error is: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='                  Add industries     ' tag='BUTTON' type='button'/>
+[83%] <webctrl aaname='                  Add titles     ' tag='BUTTON' type='button'/>
+[80%] <webctrl aaname='                  Add functions     ' tag='BUTTON' type='button'/>
+[78%] <webctrl aaname='                  Add past companies     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add tags     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add a first name     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add seniority levels     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add company types     ' tag='BUTTON' type='button'/>
+[74%] <webctrl aaname='                  Add a last name     ' tag='BUTTON' type='button'/>
+[73%] <webctrl aaname='                  Add keywords     ' tag='BUTTON' type='button'/>
+
+11/27/2020 13:58:39
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='                  Add industries     ' tag='BUTTON' type='button'/>
+[83%] <webctrl aaname='                  Add titles     ' tag='BUTTON' type='button'/>
+[80%] <webctrl aaname='                  Add functions     ' tag='BUTTON' type='button'/>
+[78%] <webctrl aaname='                  Add past companies     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add tags     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add a first name     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add seniority levels     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add company types     ' tag='BUTTON' type='button'/>
+[74%] <webctrl aaname='                  Add a last name     ' tag='BUTTON' type='button'/>
+[73%] <webctrl aaname='                  Add keywords     ' tag='BUTTON' type='button'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 1
+
+***The message of this error is: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='                  Add industries     ' tag='BUTTON' type='button'/>
+[83%] <webctrl aaname='                  Add titles     ' tag='BUTTON' type='button'/>
+[80%] <webctrl aaname='                  Add functions     ' tag='BUTTON' type='button'/>
+[78%] <webctrl aaname='                  Add past companies     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add tags     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add a first name     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add seniority levels     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add company types     ' tag='BUTTON' type='button'/>
+[74%] <webctrl aaname='                  Add a last name     ' tag='BUTTON' type='button'/>
+[73%] <webctrl aaname='                  Add keywords     ' tag='BUTTON' type='button'/>
+
+11/27/2020 13:59:09
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='                  Add industries     ' tag='BUTTON' type='button'/>
+[83%] <webctrl aaname='                  Add titles     ' tag='BUTTON' type='button'/>
+[80%] <webctrl aaname='                  Add functions     ' tag='BUTTON' type='button'/>
+[78%] <webctrl aaname='                  Add past companies     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add tags     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add a first name     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add seniority levels     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add company types     ' tag='BUTTON' type='button'/>
+[74%] <webctrl aaname='                  Add a last name     ' tag='BUTTON' type='button'/>
+[73%] <webctrl aaname='                  Add keywords     ' tag='BUTTON' type='button'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 2
+
+***The message of this error is: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='                  Add industries     ' tag='BUTTON' type='button'/>
+[83%] <webctrl aaname='                  Add titles     ' tag='BUTTON' type='button'/>
+[80%] <webctrl aaname='                  Add functions     ' tag='BUTTON' type='button'/>
+[78%] <webctrl aaname='                  Add past companies     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add tags     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add a first name     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add seniority levels     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add company types     ' tag='BUTTON' type='button'/>
+[74%] <webctrl aaname='                  Add a last name     ' tag='BUTTON' type='button'/>
+[73%] <webctrl aaname='                  Add keywords     ' tag='BUTTON' type='button'/>
+
+11/27/2020 13:59:39
+***The GlobalHandler encountered this error: 
+UiPath.Core.SelectorNotFoundException: Could not find the UI element corresponding to this selector:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+Search failed at selector tag:
+[1] <webctrl aaname='              Add industries     ' tag='BUTTON' type='button'/>
+
+The closest matches found are:
+[99%] <webctrl aaname='                  Add industries     ' tag='BUTTON' type='button'/>
+[83%] <webctrl aaname='                  Add titles     ' tag='BUTTON' type='button'/>
+[80%] <webctrl aaname='                  Add functions     ' tag='BUTTON' type='button'/>
+[78%] <webctrl aaname='                  Add past companies     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add tags     ' tag='BUTTON' type='button'/>
+[77%] <webctrl aaname='                  Add a first name     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add seniority levels     ' tag='BUTTON' type='button'/>
+[76%] <webctrl aaname='                  Add company types     ' tag='BUTTON' type='button'/>
+[74%] <webctrl aaname='                  Add a last name     ' tag='BUTTON' type='button'/>
+[73%] <webctrl aaname='                  Add keywords     ' tag='BUTTON' type='button'/>
+   at UiPath.Core.Activities.ObsoleteTaskAsyncCodeActivity`1.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+***Current RetryCount number of this GlobalHandler is: 3
+
+***The RetryCount ended.
+11/27/2020 13:59:39
+Module InitAllApp begun at: 12/02/2020 10:54:53. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 12/02/2020 10:59:00. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 12/02/2020 11:23:49. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 12/02/2020 11:27:28. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 12/02/2020 12:36:33. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Years of experience click error. 
+Filters are being re-introduced...
+Module InitAllApp begun at: 12/02/2020 13:43:31. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Years of experience click error. 
+Filters are being re-introduced...
+Module InitAllApp begun at: 12/02/2020 13:51:12. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module LinkedIn Search From DB ended...
+Module Navigate_SaveHTMLs_URLsOpen begun...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module Navigate_SaveHTMLs_URLsOpen ended...
+Module InitAllApp begun...
+Module UpdateFilterStatus ended...
+Module GetProspectsLater ended...
+Module SendMail begun...
+Module InitAllApp begun at: 12/03/2020 08:51:30. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module InitAllApp ended...
+Module InitAllApp begun at: 12/03/2020 08:53:05. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module LinkedIn Search From DB ended...
+Module Navigate_SaveHTMLs_URLsOpen begun...
+Module InitAllApp begun at: 12/03/2020 09:43:08. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 12/03/2020 11:23:09. 
+Module InitAllApp begun at: 12/03/2020 11:25:20. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 12/03/2020 11:29:09. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 12/03/2020 12:03:29. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 12/03/2020 12:09:23. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module LinkedIn Search From DB ended...
+Module Navigate_SaveHTMLs_URLsOpen begun...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module Navigate_SaveHTMLs_URLsOpen ended...
+Module InitAllApp begun at: 12/03/2020 12:29:16. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module InitAllApp begun at: 12/03/2020 14:14:04. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module LinkedIn Search From DB ended...
+Module Navigate_SaveHTMLs_URLsOpen begun...
+Module InitAllApp begun at: 12/03/2020 14:19:20. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module LinkedIn Search From DB ended...
+Module Navigate_SaveHTMLs_URLsOpen begun...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module Navigate_SaveHTMLs_URLsOpen ended...
+Module InitAllApp begun at: 12/03/2020 14:39:41. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module LinkedIn Search From DB ended...
+Module Navigate_SaveHTMLs_URLsOpen begun...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module Navigate_SaveHTMLs_URLsOpen ended...
+Module InitAllApp begun at: 12/03/2020 15:03:49. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module LinkedIn Search From DB ended...
+Module Navigate_SaveHTMLs_URLsOpen begun...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module Navigate_SaveHTMLs_URLsOpen ended...
+Module InitAllApp begun at: 12/03/2020 15:47:01. 
+Module GetProspectsLater begun...
+Module SelectFiltersToRunLater begun...
+Module SelectFiltersToRunLater ended...
+Module LinkedIn Search From DB begun...
+Module LinkedIn Search From DB ended...
+Module Navigate_SaveHTMLs_URLsOpen begun...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module DomHTML_Parse2 begun...
+Module DomHTML_Parse2 ended...
+Module InsertProspectsToDB begun...
+Module InsertProspectsToDB ended...
+Module Navigate_SaveHTMLs_URLsOpen ended...

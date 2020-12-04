@@ -1,0 +1,82 @@
+{
+  "name": "GetProspects",
+  "description": "Blank Process",
+  "main": "MainModules\\InitAllApp.xaml",
+  "dependencies": {
+    "Microsoft.Activities": "[1.0.1]",
+    "UiPath.Database.Activities": "[1.3.7369.25200]",
+    "UiPath.Excel.Activities": "[2.9.3]",
+    "UiPath.Mail.Activities": "[1.9.3]",
+    "UiPath.System.Activities": "[20.10.1]",
+    "UiPath.UIAutomation.Activities": "[20.10.5]",
+    "UiPath.WebAPI.Activities": "[1.6.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.0.0",
+  "projectVersion": "1.0.99",
+  "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalHandler.xaml",
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "68b681a9-5d51-4d46-b7ad-cd4d98debc42",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "GetProspectsLater.xaml",
+      "uniqueId": "14bb0f6a-2082-4a4a-bfca-bc81813e305a",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "MainModules\\InitAllApp.xaml",
+      "uniqueId": "f174a3a7-1ce0-481c-b900-9ea4ebe418a8",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "testing.xaml",
+      "uniqueId": "ce353bb2-9d27-4f32-b08e-3553dbe20288",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "SearchByFilter\\LinkedIn Search From DB.xaml",
+      "uniqueId": "3e6caef6-3ae7-4cc1-b106-bdff4ef9430d",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}

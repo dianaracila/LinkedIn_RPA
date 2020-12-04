@@ -1,0 +1,25 @@
+          ಠ_ಠ
+Your Daily Report,
+
+I've done my work in {3}.
+Started at: {4}.
+Ended at: {5}.
+
+The filters used on my last run are listed below:
+{7}
+If you want to check the work I did, here are the filters inserted by me on my last run:
+{8}
+I will detail them now:
+{6}
+
+¯\_(ツ)_/¯ AND If you wanna know my brain:
+	  The processes covered were:
+	  > login in (a verify login also),
+	  > selecting the filter from DB needed for me to make searches on LinkedIn,
+	  // and for each filter:
+	  > making a search on LinkedIn,
+	  > navigating through resulted pages, scraping the prospects and inserting them into DB.
+
+From Roberto,
+Kind Regards!
+ಠ_ಠ
