@@ -11,7 +11,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1121,2462</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1121,2625</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>InitAllApp_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="58">
@@ -80,7 +80,7 @@
       <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Main module. This is from where first ROBOT STARTS.&#xA;Login is done and the Sales Nav page is opened.&#xA;Then the InputForm_SearchLinkedIn_DB is invoked." DisplayName="InitAllApp - Robot STARTS" sap:VirtualizedContainerService.HintSize="376,2297" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="Main module. This is from where first ROBOT STARTS.&#xA;Login is done and the Sales Nav page is opened.&#xA;Then the InputForm_SearchLinkedIn_DB is invoked." DisplayName="InitAllApp - Robot STARTS" sap:VirtualizedContainerService.HintSize="376,2460" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="filters" />
       <Variable x:TypeArguments="scg:Dictionary(x:String, s:String[])" Name="reportDictionaryFromNavWorkf" />
@@ -371,45 +371,28 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:CommentOut>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="334,51" sap2010:WorkflowViewState.IdRef="CommentOut_10">
-      <ui:CommentOut.Body>
-        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,245" sap2010:WorkflowViewState.IdRef="Sequence_14">
-          <sap:WorkflowViewStateService.ViewState>
-            <scg:Dictionary x:TypeArguments="x:String, x:Object">
-              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-            </scg:Dictionary>
-          </sap:WorkflowViewStateService.ViewState>
-          <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" sap2010:Annotation.AnnotationText="Invoke Workflow SendMail&#xA;&#xA;Needed:&#xA;countInsertedProspTotal&#xA;countProspTotal&#xA;nrPages: valueLastPg" DisplayName="Invoke Workflow SendMail" sap:VirtualizedContainerService.HintSize="200,153" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_4" UnSafe="False" WorkflowFileName="SendMail\SendMail.xaml">
-            <ui:InvokeWorkflowFile.Arguments>
-              <InArgument x:TypeArguments="x:Int32" x:Key="countProspTotal">[countProspTotal]</InArgument>
-              <InArgument x:TypeArguments="x:Int32" x:Key="countInsertedProspTotal">[countInsertedProspTotal]</InArgument>
-              <InArgument x:TypeArguments="x:String" x:Key="nrPages">[valueLastPg]</InArgument>
-              <InArgument x:TypeArguments="x:String" x:Key="ExecutionTime">[ExecutionTime]</InArgument>
-              <InArgument x:TypeArguments="s:DateTime" x:Key="EndTime">[EndTime]</InArgument>
-              <InArgument x:TypeArguments="s:DateTime" x:Key="StartTime">[StartTime]</InArgument>
-              <InArgument x:TypeArguments="x:Int32" x:Key="limitPages">[limitPages]</InArgument>
-              <InArgument x:TypeArguments="sd:DataTable" x:Key="filtersFromDB">[filters]</InArgument>
-              <InArgument x:TypeArguments="scg:Dictionary(x:String, s:String[])" x:Key="reportDictionaryFromNavWorkf">[reportDictionaryFromNavWorkf]</InArgument>
-              <InArgument x:TypeArguments="x:String" x:Key="totalResults">[totalResults]</InArgument>
-              <InArgument x:TypeArguments="scg:Dictionary(x:String, scg:List(x:String))" x:Key="in_reportDictionaryForSelectedFilters">[reportDictionaryForSelectedFilters]</InArgument>
-            </ui:InvokeWorkflowFile.Arguments>
-            <sap:WorkflowViewStateService.ViewState>
-              <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
-                <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                <x:Boolean x:Key="IsPinned">False</x:Boolean>
-              </scg:Dictionary>
-            </sap:WorkflowViewStateService.ViewState>
-          </ui:InvokeWorkflowFile>
-        </Sequence>
-      </ui:CommentOut.Body>
+    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" sap2010:Annotation.AnnotationText="Invoke Workflow SendMail&#xA;&#xA;Needed:&#xA;countInsertedProspTotal&#xA;countProspTotal&#xA;nrPages: valueLastPg" DisplayName="Invoke Workflow SendMail" sap:VirtualizedContainerService.HintSize="334,214" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_4" UnSafe="False" WorkflowFileName="SendMail\SendMail.xaml">
+      <ui:InvokeWorkflowFile.Arguments>
+        <InArgument x:TypeArguments="x:Int32" x:Key="countProspTotal">[countProspTotal]</InArgument>
+        <InArgument x:TypeArguments="x:Int32" x:Key="countInsertedProspTotal">[countInsertedProspTotal]</InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="nrPages">[valueLastPg]</InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="ExecutionTime">[ExecutionTime]</InArgument>
+        <InArgument x:TypeArguments="s:DateTime" x:Key="EndTime">[EndTime]</InArgument>
+        <InArgument x:TypeArguments="s:DateTime" x:Key="StartTime">[StartTime]</InArgument>
+        <InArgument x:TypeArguments="x:Int32" x:Key="limitPages">[limitPages]</InArgument>
+        <InArgument x:TypeArguments="sd:DataTable" x:Key="filtersFromDB">[filters]</InArgument>
+        <InArgument x:TypeArguments="scg:Dictionary(x:String, s:String[])" x:Key="reportDictionaryFromNavWorkf">[reportDictionaryFromNavWorkf]</InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="totalResults">[totalResults]</InArgument>
+        <InArgument x:TypeArguments="scg:Dictionary(x:String, scg:List(x:String))" x:Key="in_reportDictionaryForSelectedFilters">[reportDictionaryForSelectedFilters]</InArgument>
+      </ui:InvokeWorkflowFile.Arguments>
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           <x:Boolean x:Key="IsPinned">False</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-    </ui:CommentOut>
+    </ui:InvokeWorkflowFile>
     <ui:LogMessage sap2010:Annotation.AnnotationText="&quot;Module InitAllApp ended...&quot;" DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,82" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Trace" Message="[&quot;Module InitAllApp ended...&quot;]">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
